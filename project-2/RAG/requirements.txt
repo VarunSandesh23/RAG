@@ -5,6 +5,3 @@ langchain-groq
 pypdf
 faiss-cpu
 sentence-transformers
-
-
-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
